@@ -1,0 +1,17 @@
+{
+  "raw_rows": 536640,
+  "clean_rows": 166363,
+  "customers": 2997,
+  "countries": 33,
+  "products": 3507,
+  "total_revenue": 3865463.08,
+  "date_min": "2010-01-12",
+  "date_max": "2011-12-10",
+  "duplicate_rows_removed": 5268,
+  "missing_customer_rows_excluded": 135080,
+  "forecast_metrics": {
+    "MAE": 7222.811087069446,
+    "RMSE": 12578.965818267226,
+    "TestDays": 30
+  }
+}
